@@ -1,0 +1,22 @@
+body{
+	#background-image: url("");
+	background-repeat:repeat;
+	background-color: grey;
+}
+h1{
+	font-size: 50px;
+	color: 99d6ff;
+}
+h2{
+	font-size: 20px;
+	color:#004d80 ;
+}
+.big{
+	font-size:60px;
+}
+.upppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color:red;
+}	

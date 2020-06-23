@@ -1,1 +1,2 @@
-# Blacksmithing_Website
+# This is my first website. I'm setting it up to improve my ability to do things like CSS visuals, webapps, etc.
+# It's my hope that eventually I can build it into an open-source site for learning blacksmithing. 
