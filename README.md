@@ -1,2 +1,1 @@
-# This is my first website. I'm setting it up to improve my ability to do things like CSS visuals, webapps, etc.
-# I plan on eventually developing it into a personal website for my blacksmithing/cs career. 
+# Just a learning site. 
